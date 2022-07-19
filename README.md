@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
-<h3 align="center">A high school senior who has loved programming for most of my life.</h3>
+<h3 align="center">Programming is my passion.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvelousanything&label=Profile%20views&color=0e75b6&style=flat" alt="marvelousanything" /> </p>
 
