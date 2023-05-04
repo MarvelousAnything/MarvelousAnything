@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marvelousany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marvelousany" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/owen-hayes-6aa8691b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owen-hayes-6aa8691b7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/owenvhayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owen-hayes-6aa8691b7" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7207160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7207160" height="30" width="40" /></a>
 <a href="https://kaggle.com/owenhayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="owenhayes" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/marvelousanything" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marvelousanything" height="30" width="40" /></a>
